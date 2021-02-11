@@ -6,13 +6,13 @@ For everyday use and special occasions...
 
 In the project directory, you can run:
 
+### `npm i`
+Install dependencies 
+
 ### `npm run sb`
 
 Launches Storybook for component development\
 Open [http://localhost:6006](http://localhost:6006) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `npm run test`
 
